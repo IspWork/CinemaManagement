@@ -1,5 +1,12 @@
 # CinemaManagement
 An application for cinema management and movie manipulation.  
+
+Cinema management supports the following operations:  
+- add cinema  
+- remove cinema  
+- search for a cinema  
+- display cinema list  
+  
 Cinema supports the following operations:  
 - add projection time  
 - add movie at projection time  
@@ -11,12 +18,6 @@ Cinema supports the following operations:
 - add movie to list of available movies  
 - remove a movie from the list of available movies  
 - retrieve a certain movie from the movie list  
-
-Cinema management supports the following operations:  
-- add cinema  
-- remove cinema  
-- search for a cinema  
-- display cinema list  
 
 
 
